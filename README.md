@@ -1,4 +1,4 @@
-# Currículum de Desarrollador Full Stack
+# Nicolas Morales Galindo
 
 ## Resumen
 
@@ -46,7 +46,6 @@ Con sólida experiencia en el desarrollo tanto de backend como de frontend, he p
 
 Para más detalles sobre mi experiencia y habilidades, no dude en contactarme:
 
-- Email: tuemail@example.com
-- LinkedIn: [Tu perfil de LinkedIn](www.linkedin.com/in/nicolas-morales-galindo-4b5bbb175)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/nicolas-morales-galindo-4b5bbb175)
 
 Estoy entusiasmado por explorar nuevas oportunidades y enfrentar desafíos en el sector del software. ¡Espero poder contribuir con mi experiencia y habilidades a su equipo!
